@@ -1,0 +1,22 @@
+div{
+    height: 400px;
+    padding: 5px;
+    width: 250px;
+    background-color: rgb(228, 255, 255);
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+    float: left;
+    border: solid black 1px;
+}
+div input {
+    height: 50px;
+    width: 50px;
+    display: block;
+}
+#caixa{
+    width: 200px;
+    height: 40px;
+    margin-top: 10px;
+}
